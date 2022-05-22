@@ -45,4 +45,4 @@ def rocklinks_bypass(url: str):
 
 # -----------------------------------
 inf = rocklinks_bypass(url)
-print("❤️✨BYPASSED ROCKLINKS LINK: "+ inf + " ❤️✨" ,file=open("2.txt", "w"))
+print("✨ʙʏᴘᴀssɪɴɢ ʏᴏᴜʀ ʀᴏᴄᴋʟɪɴᴋs: "+ inf + "✨" ,file=open("2.txt", "w"))
