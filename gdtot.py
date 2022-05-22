@@ -70,5 +70,5 @@ def gdtot_dl(url):
 
 info = gdtot_dl(url)
 
-print("❤️✨GOOGLE DRIVE LINK: "+ info + " ❤️✨" ,file=open("2.txt", "w"))
+print("✨ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ ʟɪɴᴋ: "+ info + "✨" ,file=open("2.txt", "w"))
 print("Bypassed Successfully!")
