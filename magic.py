@@ -128,4 +128,4 @@ def appdrive_dl(url):
 # ===================================================================
 
 inf = appdrive_dl(url)
-print("❤️✨GOOGLE DRIVE LINK: "+ inf + " ❤️✨" ,file=open("2.txt", "w"))
+print("✨ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ ʟɪɴᴋ: "+ inf + "✨" ,file=open("2.txt", "w"))
