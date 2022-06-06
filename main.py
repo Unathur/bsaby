@@ -9,7 +9,7 @@ from urllib.parse import urlparse, parse_qs
 TOKEN = environ.get('BOT_TOKEN')
 
 def start(update, context):
-    update.message.reply_text("<b>Hi I M Msp Bypasser I will bypass the shortlinks and Generate Direct Link</b>")
+    update.message.reply_text("<b>Hi I M PrimexCloud Bypasser I will bypass the shortlinks and Generate Direct Link</b>")
     
 def help(update, context):
    update.message.reply_text("""
